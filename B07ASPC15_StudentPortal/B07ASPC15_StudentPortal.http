@@ -1,0 +1,6 @@
+@B07ASPC15_StudentPortal_HostAddress = http://localhost:5139
+
+GET {{B07ASPC15_StudentPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
